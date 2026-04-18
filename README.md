@@ -9,7 +9,7 @@ A Spanish vocabulary learning app built with React, powered by Claude AI.
 - 📄 Interactive transcript reader — tap any word to look it up
 - ➕ Add words manually with auto-translation
 
-## Setup 
+## Setup   
 
 1. Clone the repo :
    ```
