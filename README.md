@@ -9,9 +9,9 @@ A Spanish vocabulary learning app built with React, powered by Claude AI.
 - 📄 Interactive transcript reader — tap any word to look it up
 - ➕ Add words manually with auto-translation
 
-## Setup
+## Setup 
 
-1. Clone the repo:
+1. Clone the repo :
    ```
    git clone https://github.com/judylau/spanish-vocab-app.git
    cd spanish-vocab-app
